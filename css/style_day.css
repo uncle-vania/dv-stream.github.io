@@ -16,4 +16,4 @@ background-repeat:  repeat-x;
 background-image:url(../img/GeorgLenti_8.png)
 
 }
-.d-page_day .d-head-decor::before{content:'';display:block;position:absolute;top:-150px;left:0;z-index:1;height:180px;display:block;width:100%;box-shadow:0 15px 70px rgba(0,0,0,0.75)}
+.d-page_day .d-head-decor::before{content:'';display:block;position:absolute;top:-150px;left:0;z-index:4;height:180px;display:block;width:100%;box-shadow:0 15px 70px rgba(0,0,0,0.75)}
