@@ -9,7 +9,7 @@
    height:180px;
    width:100%;
    overflow:hidden;
-z-index:-1;
+z-index:1;
 background-position: top center;
 background-repeat:  repeat-x;
 /*background-image:url(../img/23_feb_tanki_5.jpg)*/
