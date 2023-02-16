@@ -311,11 +311,6 @@ a:focus, a:hover {
     margin-bottom: 5px;
 }
 
-.panel {
-    border: 1px solid #ffffff;
-    box-shadow: 0 0 0 1px #c8c8c8;
-    margin-bottom: 15px;
-}
 
 .panel a {
     color: #337ab7;
