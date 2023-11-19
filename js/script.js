@@ -1,8 +1,8 @@
 swfobject.embedSWF("img/christmastree.swf", "tree", "104", "152", "9.0.0", null, null, {wmode:"transparent"});
 
     //VK.Widgets.Comments("vk_comments", {limit: 30, attach: "*", autoPublish: 0});
-    VK.Widgets.Comments("vk_comments", {limit: 20, attach: "*"}, 5192617);
-//VK.Widgets.Comments("vk_comments", {limit: 20, attach: "*", pageUrl: "uncle-vania.ga"});
+    //VK.Widgets.Comments("vk_comments", {limit: 20, attach: "*"}, 5192617);
+VK.Widgets.Comments("vk_comments", {limit: 20, attach: "*", pageUrl: "uncle-vania.ga"}, 5192617);
     //VK.Widgets.Comments("vk_comments", {limit: 20, attach: "*", pageUrl: "dv-stream.ru"});
 
 $('#donate').on('show.bs.modal', function () {
